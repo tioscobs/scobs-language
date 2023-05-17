@@ -1,2 +1,2 @@
 # scobs-language
-Uma pseudo-linguagem nada intuitiva
+Uma pseudo-linguagem feita em Lua nada intuitiva
