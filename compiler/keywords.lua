@@ -1,8 +1,6 @@
 module("keywords")
 
-keywordsTable = {
-    "startalg";
-    "endalg";
+local keywordsTable = {
     "string";
     "int";
     "bool";
@@ -18,3 +16,4 @@ keywordsTable = {
     "elseif";
     "endif";
 }
+
